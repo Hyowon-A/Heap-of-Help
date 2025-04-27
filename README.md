@@ -1,26 +1,57 @@
-# sv
+# Heap of Help - Frontend
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Heap of Help is the official **help exchange platform for the Computer Science Society**. It enables students to **find tutors with similar interests**, **seek** **assistance**, and **build a supportive community**. This frontend application is built with **Svelte** and **Vite**, providing a **responsive, fast, and intuitive** user experience.
 
-## Developing
+---
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## 🌟 Key Features
 
-```bash
-npm run dev
+- **Login/Registration with Tag (Interest) Selection**
+- **Edit Profile**
+- **Search Tutors with Tags**
+- **Real-Time Chat System**
+- **Rating System**
+- **News Section**
+- **Responsive Design**
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+---
 
-## Building
+## 📁 Project Structure
 
-To create a production version of your app:
+- `src/` : Source code (components, routes, stores)
+- `static/` : Static assets (images, icons)
+- `package.json` : Project metadata and dependencies
+- `svelte.config.js` : Svelte configuration
+- `vite.config.js` : Vite bundler configuration
+- `vercel.json` : Deployment settings for Vercel
 
-```bash
-npm run build
-```
+---
 
-You can preview the production build with `npm run preview`.
+## 🚀 Deployment
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+- Live at: [https://heapofhelp.tech/](https://heapofhelp.tech/)
+- Hosted via Vercel with automatic deployment from GitHub.
+- Presentation: [Heap of Help Presentation](https://docs.google.com/presentation/d/1A0HPdU7KOSyQmy2kXl9L4es---O6xxq5/edit?usp=sharing\&ouid=110326364159639825723\&rtpof=true\&sd=true)
+
+---
+
+## 🔧 Contributions
+
+**Main Contributions:**
+
+- Designed, implemented, and styled the **Registration**, **Login**, **Rating System**, and **Profile Page** features on the frontend to ensure a seamless user experience and consistent design language.
+
+---
+
+## 🔧 Technologies Used
+
+- Svelte
+- Vite
+- Vercel (Deployment)
+
+---
+
+## 👥 Team Members
+
+- **Hyowon Ahn** (Main Backend Developer)
+- Ana, Jack, Sam, Sayfiqah, Vlad, and Zainab
